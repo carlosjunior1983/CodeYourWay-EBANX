@@ -16,6 +16,8 @@ Escolha uma linguagem e realize o desafio.
 
 ## Exercício 01: ORDENAÇÃO
 
+Function: compute_ranking(String scores)<br>
+
 <h1 align="center">
     <img alt="Ex1" title="#ex1" src="https://github.com/carlosjunior1983/CodeYourWay-EBANX/blob/master/img/1.PNG"  /><br>
 </h1>
@@ -27,6 +29,8 @@ Escolha uma linguagem e realize o desafio.
 </h1>
 
 ## Exercício 03: CAIXA DELIMITADORA MÍNIMA
+
+Function: minimum_bounding_box(String shapes) <br>
 
 <h1 align="center">
     <img alt="Ex3" title="#ex1" src="https://github.com/carlosjunior1983/CodeYourWay-EBANX/blob/master/img/3.PNG"  /><br>
@@ -45,6 +49,8 @@ Escolha uma linguagem e realize o desafio.
 </h1>
 
 ## Exercício 06: MENSAGEM CRIPTOGRAFADA
+
+Function: decode_message(String encrypted_input) <br>
 
 <h1 align="center">
     <img alt="Ex6" title="#ex1" src="https://github.com/carlosjunior1983/CodeYourWay-EBANX/blob/master/img/6.PNG"  /><br>
